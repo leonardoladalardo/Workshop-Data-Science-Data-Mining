@@ -1,4 +1,4 @@
-# Workshop Data-Science and Data-Mining
+#  An Introduction to Data Science and Data Mining Tools for Economists
 Here you will find all the material used to the Workshop of Data Science &amp; Data Mining for Economists
                                     
                                     ######## Workshop: NEREUS - USP ######## 
